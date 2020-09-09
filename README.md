@@ -1,4 +1,4 @@
-## Basket Graphql API - Naked.Insure
+## Basket Graphql API
 
 ### Running the application
 
